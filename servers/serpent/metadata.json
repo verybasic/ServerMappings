@@ -1,0 +1,38 @@
+{
+    "id": "serpent",
+    "name": "Serpent",
+    "description": "Home of competitive HCF!",
+    "addresses": [
+        "serpent.rip"
+    ],
+    "primaryAddress": "serpent.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1f9fc2",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.serpent.rip",
+    "store": "https://store.serpent.rip",
+    "socials": {
+        "twitter": "serpent_rip",
+        "telegram": "serpent_rip",
+        "discord": "https://discord.gg/serpentrip"
+    }
+}
